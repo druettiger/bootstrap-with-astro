@@ -12,6 +12,11 @@
   "dependencies": {
     "astro": "^4.7.1",
     "@astrojs/check": "^0.5.10",
+    "bootstrap": "^5.3.3",
+    "sass": "^1.76.0",
     "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.10"
   }
 }
