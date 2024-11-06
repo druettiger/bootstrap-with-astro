@@ -1,6 +1,6 @@
 {
   "name": "Bootstrap with Astro",
-  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-22-bookworm",
   "runArgs": ["--name", "bootstrap-with-astro"],
   "postCreateCommand": "npm install",
   "customizations": {
