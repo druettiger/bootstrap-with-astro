@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "astro": "^5.12.9",
-    "bootstrap": "^5.3.7",
-    "sass": "^1.90.0",
+    "astro": "^5.13.3",
+    "bootstrap": "^5.3.8",
+    "sass": "^1.91.0",
     "typescript": "^5.9.2"
   },
   "devDependencies": {
