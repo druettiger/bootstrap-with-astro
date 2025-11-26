@@ -6,7 +6,9 @@
     "dev": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "upgrade": "echo 'Astro upgrades:' && npx @astrojs/upgrade && echo 'Other upgrades:' && npm update --save && echo 'Upgrades outside of semver ranges:' && npm outdated",
+    "upgrade-check": "npm run build && npm run preview"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.5",
