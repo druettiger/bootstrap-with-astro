@@ -14,8 +14,8 @@
     "upgrade-check": "npm run build && npm run preview"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.8",
-    "astro": "^6.1.8",
+    "@astrojs/check": "^0.9.9",
+    "astro": "^6.2.1",
     "bootstrap": "^5.3.8",
     "sass": "~1.91.0",
     "typescript": "^5.9.3"
